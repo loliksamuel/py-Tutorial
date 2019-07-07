@@ -24,3 +24,13 @@ print(  int(d[3]))
 cost =  int(d[0]) + int(d[1]) + int(d[2]) + int(d[3])
 print("sum is")
 print(cost)
+
+
+print("printing range from 2 to 20")
+for i in range(2,20):
+    print (i)
+    
+print("printing few fruits")    
+fruit=["banana", "apple", "orange"]
+for f in fruit:
+    print (f)
