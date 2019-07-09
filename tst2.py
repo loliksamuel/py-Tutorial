@@ -34,3 +34,8 @@ print("printing few fruits")
 fruit=["banana", "apple", "orange"]
 for f in fruit:
     print (f)
+    
+    
+ def foo(a,b):
+     print("sum up")
+     return a+b    
